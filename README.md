@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ Hard Skills & Stack Tecnológica
+### 🛠️ Infraestrutura
 
 | Categoria | Tecnologias e Soluções |
 | :--- | :--- |
